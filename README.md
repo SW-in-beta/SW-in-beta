@@ -1,2 +1,2 @@
-## Kakao Tech Bootcamp
-안녕하세요. 초보 개발자입니다.
+## Simon
+상상을 일상이 되는 AI 개발자
